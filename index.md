@@ -1,5 +1,6 @@
 ---
-title: "Welcome to my blog"
+title: "Welcome to Open Sience Hub Switzerland blog"
 ---
 
-I'm glad you are here. I plan to talk about ...
+More informations on our project coming sooooooooon.....
+
